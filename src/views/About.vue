@@ -1,5 +1,5 @@
 <template>
-  <div style="margin-bottom: 80px;">
+  <div style="margin-bottom: 80px">
     <h1>HELLO!,</h1>
 
     <div class="paragraph">
@@ -19,24 +19,17 @@
           the future of gaming.
         </p>
       </div>
-
-      <!-- <div style="margin-top: 40px;">
-        I'm <strong>currently looking for a job</strong> as a monk, like my good
-        friend John Rambo did a few years back. You can reach me at
-        <a href="mailto:johnmatrix@deltaforce.us">johnmatrix@deltaforce.us</a>
-        or <router-link to="/contact">through here</router-link>.
-      </div> -->
     </div>
 
     <div class="photo">
       <img
-        style="height: 300px; width: 300px; border-radius: 100%;"
+        style="height: 300px; width: 300px; border-radius: 100%"
         src="img/fawaz.jpg"
         alt="Avatar of Fawaz"
       />
     </div>
 
-    <div style="clear:both"></div>
+    <div style="clear: both"></div>
   </div>
 </template>
 
